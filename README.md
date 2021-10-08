@@ -20,6 +20,6 @@
 
   <img align="center" alt="Andrew-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrew-CPlusPlus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/857302713233833987/895781457203724288/andrew_projeto_final_final.png?width=333&height=333">
+  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783896093637083148/895883786334646332/ezgif.com-gif-maker.gif">
 </div>
 
