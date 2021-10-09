@@ -23,3 +23,23 @@
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/783896093637083148/895883786334646332/ezgif.com-gif-maker.gif">
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+##
+
+<div align="center">
+<a href="https://steamcommunity.com/id/AndrewHTR/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white%22%3E"
+<a href="https://www.youtube.com/channel/UC2IfbmTcSu22x9tiyni-YcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white%22%3E"
+<a href="https://www.instagram.com/olhaoandrew/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%22%3E"
+
+</div>
