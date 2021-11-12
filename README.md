@@ -14,7 +14,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewHTR&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHTR&layout=compact&show_icons=true&theme=dark)](https://github.com/Kamaasoo/github-readme-stats)
+<img align="center" alt="Andrew-algo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHTR&layout=compact&show_icons=true&theme=dark)](https://github.com/Kamaasoo/github-readme-stats"
   ##
   <div style="display: inline_block"><br>
 
