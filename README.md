@@ -12,9 +12,10 @@
 - ⚡ Fun fact: minecraft is a block game
 
 ##
-
+<div align ="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewHTR&show_icons=true&theme=dark)
-<img align="center" alt="Andrew-algo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHTR&layout=compact&show_icons=true&theme=dark)](https://github.com/Kamaasoo/github-readme-stats"
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHTR&layout=compact&show_icons=true&theme=dark)](https://github.com/Kamaasoo/github-readme-stats)
+</div>
   ##
   <div style="display: inline_block"><br>
 
