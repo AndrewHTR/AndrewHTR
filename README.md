@@ -1,4 +1,5 @@
-<h3>Hello World! I'm Andrew Silva 👋</h3>
+<body style="font-family: Arial, Helvetica, sans-serif;">
+<h1>Hello World! I'm Andrew Silva 👋</h1>
 
 
 <p>Sou apenas um pequeno jovem em busca de algo maior</p>
@@ -47,10 +48,11 @@
 
 
 <hr>
-
-<div align="center">
+<h2>Locais de contato:</h2>
+<div>
 <a href="https://steamcommunity.com/id/AndrewHTR/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white%22%3E">
 <a href="https://www.youtube.com/channel/UC2IfbmTcSu22x9tiyni-YcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white%22%3E">
 <a href="https://www.instagram.com/olhaoandrew/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%22%3E">
                                                         
 </div>
+  </body>
