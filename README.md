@@ -2,17 +2,7 @@
 <h1>Hello World! I'm Andrew Silva 👋</h1>
 
 
-<p>Sou apenas um pequeno jovem em busca de algo maior</p>
-<div align="center">
-  <pre>
-    _              _                      ____  _ _            
-   / \   _ __   __| |_ __ _____      __  / ___|(_) |_   ____ _ 
-  / _ \ | '_ \ / _` | '__/ _ \ \ /\ / /  \___ \| | \ \ / / _` |
- / ___ \| | | | (_| | | |  __/\ V  V /    ___) | | |\ V / (_| |
-/_/   \_\_| |_|\__,_|_|  \___| \_/\_/    |____/|_|_| \_/ \__,_|
 
-  </pre>
-</div>
 <hr>
 <div style="display: table">
 <a href="https://github.com/anuraghazra/github-readme-stats">
