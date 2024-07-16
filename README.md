@@ -1,6 +1,6 @@
 # Hii! I'm known as Andrew 👋
 
-a 19yo software developer for hobby and a overgeared lover! :D
+a 19yo software developer and a overgeared lover! :D
 <img src="https://imgur.com/4Cg0TEF.gif" min-width="300px" max-width="300px" width="200px" align="right">
 
 - Currently learning C++
