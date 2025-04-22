@@ -8,6 +8,6 @@ a 19yo software developer and a overgeared lover! :D
 - If you're curious you can know more about me at [andrewhtr.github.io](https://andrewhtr.github.io/) 
 
 <p align="center">
-  <pre>No one should need a permit
-          to a way of life</pre>
+  <p>No one should need a permit
+          to a way of life</p>
 </p>
